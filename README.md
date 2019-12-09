@@ -2,7 +2,6 @@
 
 This is the Official Support/Bug report tracker for BedrockLegends Servers
 
-Please do not post Modpack issue here.
 
 # About us
 
@@ -10,7 +9,5 @@ BedrockLegends is a Minecraft Community Network created and founded by Grotts & 
 
 # Links
 
-- [Website](https://www.bedrocklegends.com/)
-+ [Servers](https://www.bedrocklegends.com/servers)
-- [Discord](https://discord.gg/ancKd9T)
+- [Discord](https://discord.gg/NBNqA9c)
 + [Beyond The Void 2 Reborn Bugs](https://github.com/BedrockLegends/Beyond-The-Void-2-Reborn)
