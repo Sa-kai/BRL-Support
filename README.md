@@ -12,4 +12,4 @@ BedrockLegends is a Minecraft Community Network created and founded by Grotts & 
 - [Discord](https://discord.gg/NBNqA9c)
 + [Journey Across The Void](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
 - [Sloth's Hack n Slash](https://www.curseforge.com/minecraft/modpacks/sloths-has-adventure)
-+ [WWarbringer's Medieval Adventure](https://www.curseforge.com/minecraft/modpacks/warbringer)
++ [Warbringer's Medieval Adventure](https://www.curseforge.com/minecraft/modpacks/warbringer)
