@@ -10,4 +10,6 @@ BedrockLegends is a Minecraft Community Network created and founded by Grotts & 
 # Links
 
 - [Discord](https://discord.gg/NBNqA9c)
-+ [Beyond The Void 2 Reborn Bugs](https://github.com/BedrockLegends/Beyond-The-Void-2-Reborn)
++ [Journey Across The Void](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
+- [Sloth's Hack n Slash](https://www.curseforge.com/minecraft/modpacks/sloths-has-adventure)
++ [WWarbringer's Medieval Adventure](https://www.curseforge.com/minecraft/modpacks/warbringer)
