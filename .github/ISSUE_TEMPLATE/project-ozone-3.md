@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Project Ozone 3
 about: Create a report to help us improve
 title: ''
-labels: help wanted
+labels: ''
 assignees: ''
 
 ---
@@ -18,9 +18,9 @@ assignees: ''
 3.
 
 #### Version (make sure you are on the latest version before reporting):
-**Forge:** 
-**Server:** 
-**Modpack:** 
+**Forge Version:** 
+**Server Version:** 
+**Modpack Version:** 
 
 #### If a (crash)log is relevant for this issue, link it here: (_It's almost always relevant_)
 
