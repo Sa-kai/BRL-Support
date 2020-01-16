@@ -2,7 +2,7 @@
 name: Slothcraft
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: Slothcraft, bug
 assignees: MasterSloth1
 
 ---
